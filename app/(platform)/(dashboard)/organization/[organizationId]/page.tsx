@@ -4,9 +4,8 @@ const OrganizationPage = () => {
   const { userId, orgId } = auth();
   return (
     <>
-    sjdknfkljdn
       <div>
-        <OrganizationSwitcher />
+        organization page
       </div>
     </>
   );
